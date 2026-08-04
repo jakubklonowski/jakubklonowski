@@ -14,4 +14,4 @@ I work mainly on the data side of applications — API design, ERP integration, 
 
 ### Contact
 - 📧 jakubpklonowski@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/[your-handle])
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakubklonowski/)
