@@ -10,7 +10,7 @@ I work mainly on the data side of applications — API design, ERP integration, 
 - Currently deepening: design patterns, async/queue architectures, test coverage
 
 ### Featured project
-**[Symfony REST API](https://github.com/jakubklonowski/symfony)** — a Symfony REST API demonstrating order and inventory management with transactional stock reservation, async processing with Messenger, Redis caching, and the Strategy pattern for discounts. Built to show how I approach concurrency, architecture, and testing.
+**[Order Management API](https://github.com/jakubklonowski/order-management-api)** — a Symfony REST API demonstrating order and inventory management with transactional stock reservation, async processing with Messenger, Redis caching, and the Strategy pattern for discounts. Built to show how I approach concurrency, architecture, and testing.
 
 ### Contact
 - 📧 jakubpklonowski@gmail.com
